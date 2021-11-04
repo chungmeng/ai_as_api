@@ -6,10 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Jerome
 ai_as_api.code-workspace
 bin/
 etc/
 pyvenv.cfg
+datasets/
 
 # Distribution / packaging
 .Python
