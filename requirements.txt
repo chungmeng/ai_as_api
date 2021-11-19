@@ -8,3 +8,5 @@ python-dotenv
 tensorflow==2.6.2
 uvicorn
 scikit-learn
+pypyr
+boto3
