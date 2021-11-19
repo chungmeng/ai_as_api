@@ -12,6 +12,7 @@ bin/
 etc/
 pyvenv.cfg
 datasets/
+share/
 
 # Distribution / packaging
 .Python
