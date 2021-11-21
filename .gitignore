@@ -13,6 +13,7 @@ etc/
 pyvenv.cfg
 datasets/
 share/
+models/
 
 # Distribution / packaging
 .Python
